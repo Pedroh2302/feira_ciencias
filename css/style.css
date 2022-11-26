@@ -1,0 +1,65 @@
+h2, h3 {
+    font-weight: bold;
+}
+
+h2 {
+    margin-bottom: 32px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.row {
+    padding: 50px 0px 50px 0px;
+}
+
+.header-txt {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.header-txt > h1 {
+    font-weight: bold;
+}
+
+.header-img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.highlight {
+    background-color: lightgray;
+}
+
+.section-img {
+    margin: 25px;
+}
+
+.section-txt {
+    margin: 25px;
+}
+
+.sobre-header > img {
+    width: 100%;
+}
+
+.sobre {
+    margin-top: 25px;
+    border-right: solid 2px grey;
+}
+
+.bibliografia {
+   margin-top: 25px;
+}
+
+footer {
+    background-color: rgb(36, 36, 36);
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+#logo {
+    margin-bottom: 10px;
+}
